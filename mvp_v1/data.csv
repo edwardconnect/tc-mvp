@@ -1,0 +1,88 @@
+﻿Fund,Subscriptions,Cut-off Time,Business Days
+BAE,Monthly,5 business days,"New York
+Cayman Islands"
+ASO,Monthly,1 business day (5pm Dublin),"London
+Dublin"
+BSE,Monthly,,
+BHA,Monthly,3 business days (4pm Dublin),"London
+New York"
+BHM,Monthly,3 business days (4pm Dublin),"London
+New York"
+BPF,Monthly,3 business days (5pm Hong Kong),"Hong Kong,Singapore,Cayman Islands"
+BEC,Monthly,,
+CAD,Monthly,2 business days,"New York,Cayman Islands"
+CCF,Monthly,2 business days,New York
+CKO,Monthly,3 business days,New York
+CTF,Monthly,,
+DAN,Monthly,3 business days (4pm Hong Kong) - send 4BD (time diff),Hong Kong
+EMS,Monthly,1 business day (5pm Dublin),"London
+Dublin"
+FHE,Monthly,2 business days (4pm Singapore) - send 3BD (time diff),"Singapore
+Cayman Islands"
+XXX,Monthly,2 business days (5pm Dublin),"London
+New York
+Cayman Islands"
+JJJ,Monthly,1 business day,"London
+New York"
+CTF,Monthly,2 business days (5pm Dublin),Hong Kong
+LSK,Monthly,1 business day (5pm Dublin),"London
+Dublin"
+LAR,Monthly,1 business day (5pm Dublin),"London
+Dublin"
+LPF,Monthly,1 business day (5pm Dublin),"London
+Dublin"
+ML,,,
+OGA,Monthly,"3 business days HK 5pm (doc), 
+1 business days HK 5pm (cash)",Hong Kong
+XXX,Monthly,2 business days (4pm GMT),"Greece
+Cayman Islands"
+PHC,Monthly,"5 calendar days (doc)
+3 business days (cash)",New York
+XXX,Monthly,,
+XXX,Monthly,2 business days,"Hong Kong
+Dublin
+New York"
+P72,Monthly,"5 business days (doc), 
+3 business days (cash)","New York (NYSE)
+Cayman Islands"
+QEC,Monthly,6 business days (5pm EST) (25th),"United States
+Singapore"
+XXX,Monthly,,
+RKS,Monthly,1 business day (5pm Dublin),"London
+Dublin"
+XXX,Monthly,,"London
+Dublin
+Cayman Islands"
+SFE,Monthly,"5 business days (doc), 
+3 business days (cash)","New York
+Cayman Islands"
+SSP,Monthly,"5 business days (doc), 
+3 business days (cash)","New York
+Cayman Islands"
+SCU,Monthly,1 business day (5pm Dublin),New York
+SEP,Monthly,2 business days,"Ireland
+United States
+Cayman Islands"
+TPO,Monthly,"7 days (doc)
+2 days (cash)",New York
+TGI,Monthly,5 business days,"New York
+Curacao"
+XXX,Monthly,,
+XXX,Monthly,1 business day (4pm Dublin),Dublin
+XXX,Daily,,
+XXX,Monthly,,
+VIS,Monthly,5 business days,"New York
+California
+Cayman Islands"
+VIS,Monthly,5 business days,"New York
+California
+Cayman Islands"
+VMF,Monthly,5 business days,"New York
+Cayman Islands"
+VOR,Monthly,,"London
+Dublin"
+XXX,Monthly,,
+WQS,Monthly,"10 business days (doc)
+5 business days (cash)",New York
+WQM,Monthly,"15 business days (doc)
+5 business days (cash)",New York
